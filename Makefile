@@ -1,4 +1,3 @@
-
 IMAGE ?= mlmagic
 TAG ?= latest
 
